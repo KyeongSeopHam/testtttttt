@@ -15,9 +15,9 @@ public class HelController {
         return "ccccccccccccc";
     }
 
-    @GetMapping("/mva")
+    @GetMapping("/효토리")
     public String geta() {
-        return "aaaaaaaaaaaaa";
+        return "효토리 반갑 효토리월드구독 좋아요";
     }
 
     @GetMapping("/mvb")
